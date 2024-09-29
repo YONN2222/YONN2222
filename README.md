@@ -1,15 +1,15 @@
 # Willkommen auf meinem GitHub-Profil! :wave:
 
-Ich bin Yonn, ich bin Desinger.
+Ich bin Yonn, ich bin Desinger. Ausserdem lerne ich gerade das Programmieren in Python.
 
 ![GitHub followers](https://img.shields.io/github/followers/yonn2222?label=Follow&style=social)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/5VDKrVCkME)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vfuDGp2vq4)
 
 ---
 
 ## :bar_chart: GitHub Stats
 
-![pyrora-finn](https://github-readme-stats.vercel.app/api?username=yonn2222&show_icons=true&theme=transparent)
+![YONN2222](https://github-readme-stats.vercel.app/api?username=yonn2222&show_icons=true&theme=transparent)
 ![Python](https://github-readme-stats.vercel.app/api/top-langs/?username=yonn2222&layout=compact&theme=transparent)
 
 ---
