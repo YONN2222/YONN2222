@@ -19,6 +19,8 @@ Ich bin Yonn, ich bin Desinger.
 
 ## :mailbox: Kontakt
 
+Discord: yonn2222
+
 Vielen Dank fürs Vorbeischauen! :smile:
 
 [![dd](https://visitcount.itsvg.in/api?id=yonn2222&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
