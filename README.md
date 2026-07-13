@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm YONN2222!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Yonn!
 
 <p align="center">
   <a href="https://discord.com/users/821835831844012103"><img src="https://lanyard.cnrad.dev/api/821835831844012103?hideDecoration=true&hideSpotify=true" /></a>
